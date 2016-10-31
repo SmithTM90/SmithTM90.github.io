@@ -3,7 +3,7 @@
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
   	#headshot {
-  		width: 25%;
+  		height: 25%;
   	}
 
 }
