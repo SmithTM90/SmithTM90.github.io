@@ -5,7 +5,6 @@
   	#headshot {
   		height: 25%;
   	}
-
 }
 
 #headshot {
@@ -18,11 +17,19 @@ h3 {
 
 header {
   background-image: url("/img/random_grey_variations.png");
-  
 }
+
+iframe {
+  margin-top: 10px;
+}
+
 
 #about {
   background-color: #2E8558;
+}
+
+#resume {
+  padding-top: 0px;
 }
 
 #mainNav {
