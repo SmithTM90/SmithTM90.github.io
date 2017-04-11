@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Alike Angular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
 hr.star-light,
@@ -79,13 +79,13 @@ header img {
   display: block;
   margin: 0 auto 20px;
 }
-header .intro-text {
+header .intro-text .name {
   display: block;
-  font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Alike Angular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
   font-size: 2em;
 }
-header .skills {
+header .intro-text .skills {
   font-size: 1.25em;
   font-weight: 300;
 }
@@ -94,10 +94,10 @@ header .skills {
     padding-top: 200px;
     padding-bottom: 100px;
   }
-  header {
+  header .intro-text .name {
     font-size: 4.75em;
   }
-  header .skills {
+  header .intro-text .skills {
     font-size: 1.75em;
   }
 }
