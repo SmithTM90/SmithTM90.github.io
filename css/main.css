@@ -21,6 +21,7 @@ header {
 
 iframe {
   margin-top: 10px;
+  margin-left: 4%;
 }
 
 
@@ -37,6 +38,6 @@ iframe {
   background-color: #777;
 }
 
-iframe {
-  margin-left: 4%;
+#pdfDownload {
+  margin-left: 15%;
 }
