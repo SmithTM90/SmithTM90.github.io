@@ -79,7 +79,7 @@ header img {
   display: block;
   margin: 0 auto 20px;
 }
-header .intro-text .name {
+header .intro-text {
   display: block;
   font-family: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
